@@ -1,4 +1,4 @@
-# Non-autoregressive Translation with Dependency-Aware Decoder
+# DePA: Improving Non-autoregressive Machine Translation with Dependency-Aware Decoder
 The code for IWSLT 2023 paper DePA: Improving Non-autoregressive Machine Translation with Dependency-Aware Decoder
 
 Some codes are borrowed from GLAT (https://github.com/FLC777/GLAT).
